@@ -14,7 +14,10 @@ This folder will include more **closure-based** programs as part of the **LeetCo
 ## 📂 Folder Structure  
 ```
 📦 Closures  
- ┣ 📜 Create_Hello_World_Function.js  
+ ┣ 📜 1.Create_Hello_World_Function.js  
+ ┣ 📜 2.Counter.js  
+ ┣ 📜 3.To_Be_or_Not_To_Be.js  
+ ┣ 📜 4.Counter2.js  
  ┣ 📜 README.md  
 ```
 
